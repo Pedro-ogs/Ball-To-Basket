@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694005232 source:c:\users\usuário\desktop\faculdade\8º\programação em c\trab_\trabalho1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
